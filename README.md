@@ -1,18 +1,57 @@
 # Quotes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+## Description 
+Quotes is a simple application meant to test understanding of Angular 7. The application allows a user to provide some inputs and as out put it displays the details of a quotes .
 
-## Development server
+## Author
+Amir Edin
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## set up requirment
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+*For the application to run on local machine, you must have NPM and Angular installed.
 
-## Build
+*Bootstrap is also required for the custom styling used and recommended especially for the cards element to work.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+When all the Requirements have been met, you can simply clone the application by running the command git clone https://github.com/lawrence254/Quotes.git on your local machine and you can run your own version by opening a terminal and navigating to the cloned folder and running ng serve -o,this will initiate and open a server that will allow you to view the application. You can also access the generated application from this link or the one provided above if you first want to see how the application works.
+
+
+## Specification
+    The following are the specifications for this application:
+
+*INPUT
+
+The application accepts 4 inputs with the user being able to enter only 3 of the required inputs.
+
+*INPUT TYPE
+
+The following are the required inputs:
+
+1 A Quote (Entered into the text area).
+
+2 The author of the Quote.
+
+3 Name of the user uploading the Quote.
+
+4 The date the Quote is submitted.(Hidden input).
+
+## Technologies used
+
+* Angular 7
+* Bootstrap
+* Bootstrap
+
+## Contact
+    * Tele 0757853395
+    * Email amiredin@yahoo.com
+  
+
+## Licence and copyright
+
+MIT License
+
+Copyright (c) 2019 Amiredin
+
 
 ## Running unit tests
 
