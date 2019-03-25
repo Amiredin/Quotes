@@ -12,7 +12,7 @@ import { Quotes } from '../quotes';
     
   quotes =[
       
-    new Quotes('The grass is greener where you water it.','brian Hutchison',0,0,new Date(2019,3,5)),
+    new Quotes('The grass is greener where you water it.','Amir Hutchison',0,0,new Date(2019,3,5)),
     
     new Quotes('Wherever life plants you, bloom with grace.','kelvin cipoe',0,0,new Date(2019,3,5)),
 
