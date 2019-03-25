@@ -2,7 +2,7 @@
 <h1>My Quotes</h1>
 <div class="container">
          
-       <app-quotes-form>(addQuote)="addNewQuote($event)"</app-quotes-form>
+       <app-quotes-form (addQuote)="addNewQuote($event)"></app-quotes-form>
 
         <div *ngFor='let quote of quotes;let i =index'>
               <li >{{quote.name}}</li> 
