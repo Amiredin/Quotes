@@ -14,7 +14,7 @@ import { Quotes } from '../quotes';
       
     new Quotes('The grass is greener where you water it.','Doug Hutchison',0,0,new Date(2019,3,5)),
     
-    new Quotes('Wherever life plants you, bloom with grace.','kelvin cipoe',0,0,new Date(2019,3,5)),
+    new Quotes('Wherever life plants you, bloom with grace.','Amir cipoe',0,0,new Date(2019,3,5)),
 
     new Quotes('So, what if, instead of thinking about solving your whole life, you just think about adding additional good things. One at a time. Just let your pile of good things grow',
 
