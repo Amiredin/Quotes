@@ -11,9 +11,7 @@ Amir Edin
 
 *For the application to run on local machine, you must have NPM and Angular installed.
 
-*Bootstrap is also required for the custom styling used and recommended especially for the cards element to work.
-
-When all the Requirements have been met, you can simply clone the application by running the command git clone https://github.com/lawrence254/Quotes.git on your local machine and you can run your own version by opening a terminal and navigating to the cloned folder and running ng serve -o,this will initiate and open a server that will allow you to view the application. You can also access the generated application from this link or the one provided above if you first want to see how the application works.
+*Bootstrap is also required for the custom styling used and recommended especially for the cards element to work
 
 
 ## Specification
